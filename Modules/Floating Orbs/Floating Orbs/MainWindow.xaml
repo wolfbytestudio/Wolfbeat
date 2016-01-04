@@ -1,0 +1,29 @@
+﻿<Window x:Name="frmMain" x:Class="Floating_Orbs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Floating_Orbs"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="785.664" Width="1409.79" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF010E19" Offset="0"/>
+            <GradientStop Color="#FF25469A" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+
+        <Grid x:Name="orbGrid" Margin="0,0,0,-21">
+
+            <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="76" Click="btnClear_Click" Height="22"/>
+            <CheckBox x:Name="chbEnabled" Content="Floating orbs enabled" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,10,0,0" Foreground="White" Width="158" Checked="chbEnabled_Checked" IsChecked="False" Unchecked="chbEnabled_Unchecked"/>
+            <Expander x:Name="expander" Header="Expander" HorizontalAlignment="Left" Margin="725,479,0,0" VerticalAlignment="Top">
+                <Grid Background="#FFE5E5E5" Height="67" Width="419"/>
+            </Expander>
+
+        </Grid>
+    </Grid>
+
+</Window>

@@ -1,0 +1,14 @@
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\bin\Debug\Floating Orbs.exe.config
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\bin\Debug\Floating Orbs.exe
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\bin\Debug\Floating Orbs.pdb
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.csprojResolveAssemblyReference.cache
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\MainWindow.g.cs
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\App.g.cs
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs_MarkupCompile.cache
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs_MarkupCompile.lref
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\MainWindow.baml
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.g.resources
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating_Orbs.Properties.Resources.resources
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.csproj.GenerateResource.Cache
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.exe
+c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.pdb
