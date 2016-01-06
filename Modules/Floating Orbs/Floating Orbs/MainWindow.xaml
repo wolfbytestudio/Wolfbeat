@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Floating_Orbs"
         mc:Ignorable="d"
-        Title="MainWindow" Height="785.664" Width="1409.79" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="570.739" Width="1020.238" WindowStartupLocation="CenterScreen">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="#FF010E19" Offset="0"/>
@@ -16,14 +16,15 @@
     <Grid>
 
         <Grid x:Name="orbGrid" Margin="0,0,0,-21">
+            <TextBlock x:Name="txtOrbCount" HorizontalAlignment="Left" Margin="278,10,0,0" TextWrapping="Wrap" Text="Orbs: 0" VerticalAlignment="Top" Height="22" Width="164" Foreground="White"/>
+            <Slider x:Name="sldAmount" HorizontalAlignment="Left" Margin="346,10,0,0" VerticalAlignment="Top" Height="21" Width="656" Maximum="500" ValueChanged="Slider_ValueChanged"/>
+            <TextBlock x:Name="txtValue" HorizontalAlignment="Left" Margin="346,36,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Foreground="White" Height="20" Width="656" TextAlignment="Center"/>
 
-            <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="76" Click="btnClear_Click" Height="22"/>
-            <CheckBox x:Name="chbEnabled" Content="Floating orbs enabled" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,10,0,0" Foreground="White" Width="158" Checked="chbEnabled_Checked" IsChecked="False" Unchecked="chbEnabled_Unchecked"/>
-            <Expander x:Name="expander" Header="Expander" HorizontalAlignment="Left" Margin="725,479,0,0" VerticalAlignment="Top">
-                <Grid Background="#FFE5E5E5" Height="67" Width="419"/>
-            </Expander>
 
         </Grid>
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="76" Click="btnClear_Click" Height="22"/>
+        <CheckBox x:Name="chbEnabled" Content="Floating orbs enabled" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,10,0,0" Foreground="White" Width="158" Checked="chbEnabled_Checked" IsChecked="False" Unchecked="chbEnabled_Unchecked"/>
+
     </Grid>
 
 </Window>

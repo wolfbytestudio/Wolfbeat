@@ -27,10 +27,14 @@ namespace Floating_Orbs
 
         private OrbHandler orbHandler;
 
+        public static TextBlock orbCounter;
+
         public MainWindow()
         {
             
             InitializeComponent();
+            orbHandler = new OrbHandler(orbGrid, 0);
+            orbCounter = txtOrbCount;
         }
 
         private void btnClear_Click(object sender, RoutedEventArgs e)
@@ -40,7 +44,6 @@ namespace Floating_Orbs
 
         private void chbEnabled_Checked(object sender, RoutedEventArgs e)
         {
-            orbHandler = new OrbHandler(orbGrid, 50);
             orbHandler.start();
         }
 
@@ -49,6 +52,18 @@ namespace Floating_Orbs
             orbHandler.clear();
             orbHandler.stop();
         }
+
+        private void Slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            try
+            {
+                orbHandler.Size = (short)sldAmount.Value;
+                txtValue.Text = "" + (short)sldAmount.Value;
+            }
+            catch { }
+        }
+
+
 
     }
 }

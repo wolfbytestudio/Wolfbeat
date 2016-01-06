@@ -37,7 +37,16 @@ namespace Floating_Orbs.com.orb
         /// <summary>
         /// The maximum amount of orbs that can be placed
         /// </summary>
-        private byte size;
+        private short size;
+
+        /// <summary>
+        /// Sets or gets the size of
+        /// </summary>
+        public short Size 
+        { 
+            get { return size; } 
+            set { size = value; } 
+        }
 
         /// <summary>
         /// Timer to start the orbs
@@ -97,9 +106,14 @@ namespace Floating_Orbs.com.orb
                 
             grid.Parent.Dispatcher.Invoke(() =>
             {
-                if (amount() <= size)
+                MainWindow.orbCounter.Text = "Orbs: " + orbs.Count;
+                if (amount() < size)
                 {
-                    spawnRandomOrb();
+                    //if(random.Next(10) == 1)
+                    //{
+                        spawnRandomOrb();
+                    //}
+                    
                 }
                 updateOrbs();
             });
@@ -175,7 +189,6 @@ namespace Floating_Orbs.com.orb
         /// <returns>The new random double</returns>
         private double getRandomNumber(double minimum, double maximum)
         {
-            Random random = new Random();
             return random.NextDouble() * (maximum - minimum) + minimum;
         }
 

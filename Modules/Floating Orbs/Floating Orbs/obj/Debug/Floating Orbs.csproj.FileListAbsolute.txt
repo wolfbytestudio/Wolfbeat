@@ -12,3 +12,17 @@ c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\
 c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.csproj.GenerateResource.Cache
 c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.exe
 c:\users\zack\documents\visual studio 2015\Projects\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.pdb
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\bin\Debug\Floating Orbs.exe.config
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.exe
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.pdb
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\bin\Debug\Floating Orbs.exe
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\bin\Debug\Floating Orbs.pdb
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\MainWindow.g.cs
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\App.g.cs
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs_MarkupCompile.cache
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs_MarkupCompile.lref
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\MainWindow.baml
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.g.resources
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating_Orbs.Properties.Resources.resources
+C:\Users\Zack\Documents\GitHub\Wolfbeat\Modules\Floating Orbs\Floating Orbs\obj\Debug\Floating Orbs.csproj.GenerateResource.Cache
