@@ -1,0 +1,14 @@
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\bin\Debug\Recolouring.exe.config
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\bin\Debug\Recolouring.exe
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\bin\Debug\Recolouring.pdb
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring.csprojResolveAssemblyReference.cache
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\MainWindow.g.cs
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\App.g.cs
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring_MarkupCompile.cache
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring_MarkupCompile.lref
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\MainWindow.baml
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring.g.resources
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring.Properties.Resources.resources
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring.csproj.GenerateResource.Cache
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring.exe
+c:\users\zack\documents\visual studio 2015\Projects\Recolouring\Recolouring\obj\Debug\Recolouring.pdb
