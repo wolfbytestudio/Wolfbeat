@@ -5,10 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Recolouring"
         mc:Ignorable="d"
-        Title="MainWindow" Height="135.366" Width="525">
+        Title="MainWindow" Height="307.317" Width="525">
     <Grid Background="#FF4F4F4F" Margin="0,0,0,2">
         <Image x:Name="imgRecol" HorizontalAlignment="Left" Height="70" Margin="105,10,0,0" VerticalAlignment="Top" Width="71" Source="Resource/back_arrow.png"/>
         <Button x:Name="button" Content="Recolour" HorizontalAlignment="Left" Margin="316,10,0,0" VerticalAlignment="Top" Width="191" Height="39" Click="button_Click"/>
+        <Slider x:Name="sldRed" HorizontalAlignment="Left" Margin="10,168,0,0" VerticalAlignment="Top" Width="497" Maximum="255" LargeChange="5"/>
+        <Slider x:Name="sldGreen" HorizontalAlignment="Left" Margin="10,191,0,0" VerticalAlignment="Top" Width="497" Maximum="255" LargeChange="5"/>
+        <Slider x:Name="sldBlue" HorizontalAlignment="Left" Margin="10,214,0,0" VerticalAlignment="Top" Width="497" Maximum="255" LargeChange="5"/>
 
     </Grid>
 </Window>
